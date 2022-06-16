@@ -1,11 +1,10 @@
 # SyncSupply 
-- [SyncSupply](#syncsupply)
-  * [Problem and Motivation](#problem-and-motivation)
-  * [How severe?](#how-severe-)
-  * [Competition Landspace](#competition-landspace)
-  * [System Design](#system-design)
-  * [Team](#team)
-  * [Demo Link](#demo-link)
+- [Problem and Motivation](#problem-and-motivation)
+- [How severe?](#how-severe-)
+- [Competition Landspace](#competition-landspace)
+- [System Design](#system-design)
+- [Team](#team)
+- [Demo Link](#demo-link)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
