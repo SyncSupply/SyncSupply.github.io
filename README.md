@@ -1,4 +1,5 @@
 # Mar 25 EnterpriseTECH STAR Notes
+[toc]
 
 ## Agenda
 
