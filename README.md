@@ -28,10 +28,6 @@
     + [Cost structure](#cost-structure)
   * [Business model](#business-model-1)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
-
 
 ## Agenda
 
